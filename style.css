@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+}
+h1{
+    color: aqua;
+}
+p{
+    color: black;
+}
+img{
+    border-radius: 50%;
+    border: black solid;
+}
